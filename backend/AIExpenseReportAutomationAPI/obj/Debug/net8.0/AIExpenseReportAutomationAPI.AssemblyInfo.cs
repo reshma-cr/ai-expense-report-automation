@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIExpenseReportAutomationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e156e57d72cf0465359a497874c089a613296c97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2109e43d0dd0414157385716da2be662bdb5700")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIExpenseReportAutomationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIExpenseReportAutomationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
